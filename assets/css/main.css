@@ -115,3 +115,7 @@ a:hover, a:focus {
 .section-about-andi .section-description {
 	color: white;
 }
+
+.jumbotron {
+	background-color: #EBEFB8;
+}
